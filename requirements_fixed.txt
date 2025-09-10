@@ -1,0 +1,7 @@
+streamlit
+requests
+pytz
+pandas
+plotly
+
+certifi
