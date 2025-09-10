@@ -2,6 +2,6 @@ streamlit
 requests
 pytz
 pandas
-plotly
+plotly>=5.18.0
 
 certifi
